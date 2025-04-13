@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #fff;
+}
+
+header, nav, section, article, footer {
+  margin-bottom: 20px;
+}
+
+h1, h2, h3, h4 {
+  color: #111;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  margin-bottom: 5px;
+}
+
+nav a {
+  text-decoration: none;
+  color: blue;
+}
